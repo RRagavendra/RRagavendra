@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ragavendra.R</h1>
 <h3 align="center">A passionate Data-scientist/Data Analyst</h3>
 
-- 🔭 I’m currently working on **Tata Consultancy Services**
+- 🔭 I’m currently working on **Servion Global Solutions**
 
 - 👯 I’m looking to collaborate on **Data-science projects / ML Projects**
 
